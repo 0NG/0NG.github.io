@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>An unstable blog</title>
+  <icon>https://0ng.github.io/icon.png</icon>
+  
+  <link href="https://0ng.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://0ng.github.io/"/>
+  <updated>2021-07-18T09:37:19.007Z</updated>
+  <id>https://0ng.github.io/</id>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>SB层差分分布的一个结论</title>
+    <link href="https://0ng.github.io/posts/7f76935c/"/>
+    <id>https://0ng.github.io/posts/7f76935c/</id>
+    <published>2021-07-18T00:00:00.000Z</published>
+    <updated>2021-07-18T09:37:19.007Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;我一直认为，Super-Sbox分析只是把几个sbox和一些线性层合并成一个大的sbox的&lt;del&gt;无聊的&lt;/del&gt;技巧。不过，上周有个师弟指出论文&lt;a href=&quot;https://eprint.iacr.org/2009/531&quot;&gt;&lt;strong&gt;Super-Sbox Cryptanalysis: Improved Attacks for AES-like permutations&lt;/strong&gt;&lt;/a&gt;中有一个Super-Sbox相关的结论。当时我对该结论没有足够的理解，事后才耐心地推导了一次。&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>DASCTF X BUUOJ 之密码题：Fibonacci</title>
+    <link href="https://0ng.github.io/posts/f485ed2c/"/>
+    <id>https://0ng.github.io/posts/f485ed2c/</id>
+    <published>2021-05-29T00:00:00.000Z</published>
+    <updated>2021-07-18T09:37:19.007Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;DASCTF X BUUOJ 五月大联动的比赛里，出现一道有趣的密码题。&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>利用Github action构建Hexo博客</title>
+    <link href="https://0ng.github.io/posts/41cd8061/"/>
+    <id>https://0ng.github.io/posts/41cd8061/</id>
+    <published>2020-10-21T00:00:00.000Z</published>
+    <updated>2021-07-18T09:37:19.007Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;自从GitHub action可以免费使用后，我就开始想利用它解决博客的构建和部署的问题。直到今天，终于实现了自己比较满意的GitHub action。&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>测试更新流程&amp;&amp;遇到的一些问题</title>
+    <link href="https://0ng.github.io/posts/7cfb10a/"/>
+    <id>https://0ng.github.io/posts/7cfb10a/</id>
+    <published>2020-03-25T00:00:00.000Z</published>
+    <updated>2021-07-18T09:37:19.007Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;这是一篇测试本博客可用性的文章，顺便列举一些我遇到的问题。&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>TEST</title>
+    <link href="https://0ng.github.io/posts/eeea93b8/"/>
+    <id>https://0ng.github.io/posts/eeea93b8/</id>
+    <published>2020-03-23T00:00:00.000Z</published>
+    <updated>2021-07-18T09:37:19.007Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Nothing here~&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>
